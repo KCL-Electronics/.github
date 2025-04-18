@@ -1,6 +1,6 @@
 # ⚡ KCL Electronics Society
 
-![RIE Logo](https://static.wixstatic.com/media/ea4b10_a26406eab8e94affb84d0d9c50065cce~mv2.png)
+<img height="160" src="https://static.wixstatic.com/media/ea4b10_a26406eab8e94affb84d0d9c50065cce~mv2.png">
 
 > Empowering Students at King's College London in Electronics, Engineering and Computer Science.
 
