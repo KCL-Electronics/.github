@@ -45,6 +45,7 @@ Whether you're a beginner or a mad scientist in the making, our dual-track curri
 
 Access our open-source electrical engineering curriculum, tutorials, project guides, and more:  
 ➡️ **[Visit Resource Hub](https://kclelectronics.co.uk/projects)**
+
 ---
 
 ## ✨ Join Us!
