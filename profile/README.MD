@@ -1,64 +1,71 @@
-# ⚡ KCL Electronics Society
+# KCL Electronics Society
 
 <img src="https://github.com/KCL-RIE/rie-website-next/blob/1e3ede12305babf1de4a188547c586c69b09efb0/public/img/banner.png?raw=true">
 
-> Empowering Students at King's College London in Electronics, Engineering and Computer Science.
+**Empowering students at King's College London in Electronics, Engineering, and Computer Science.**
 
 ---
 
-KCL Electronics Society is an open-source student community pioneering research-oriented electrical engineering technologies at King's College London. We dive deep into high-voltage circuits, PCB design, motor control, laser devices, and more — all while building our own academic resources and curriculum.
+## About Us  
+
+KCL Electronics Society is an open-source student community dedicated to advancing research-oriented electrical and electronic engineering at King’s College London.  
+Our members explore high-voltage circuits, PCB design, motor control, laser systems, and other frontier technologies, while also developing open-access educational resources and a self-directed curriculum.  
 
 ---
 
-## 🔧 Featured Projects
+## Featured Projects  
 
-- 🔋 **AM32 ESC PCB** – A high-performance ESC circuit board
-- 🔄 **Coil Winding Machine** – Automated custom coil winding
-- ⚡ **BLDC ESC** – Brushless motor controller
-- 💥 **High Voltage Experiments** – Tesla coils, railguns, and more
-
----
-
-## 🚀 What We Do
-
-### 🧪 We Inspire  
-We break new ground with hands-on, research-driven hardware projects — from laser drivers to electromagnetic accelerators.
-
-### 🌍 We Democratize  
-We operate without hierarchy. Anyone with skills can lead. Everyone can contribute. We act fast on ideas.  
-> “From each according to his ability, to each according to his need.”
-
-### 📚 We Educate  
-Whether you're a beginner or a mad scientist in the making, our dual-track curriculum will ignite your curiosity and unleash your innovation through weekly workshops and advanced project labs.
-
-## 🛠 Tech Stack
-
-- **KiCad / Altium** for PCB Design  
-- **STM32 / ESP32** for Embedded Systems  
-- **Python / C / Assembly** for firmware & scripting  
-- **3D Printing & Laser Cutting** for prototyping  
-- **High Voltage & RF Systems** for experimentation
+- **AM32 ESC PCB** – High-performance electronic speed controller design  
+- **Coil Winding Machine** – Automated custom coil fabrication  
+- **BLDC ESC** – Brushless motor controller development  
+- **High Voltage Experiments** – Research into Tesla coils, railguns, and related technologies  
 
 ---
 
-## 📚 RIE Resource Hub
+## What We Do  
 
-Access our open-source electrical engineering curriculum, tutorials, project guides, and more:  
-➡️ **[Visit Resource Hub](https://kclelectronics.co.uk/projects)**
+### Research & Innovation  
+Hands-on, project-driven research in areas such as embedded systems, RF electronics, and experimental hardware.  
 
----
+### Open Collaboration  
+A non-hierarchical structure where initiative and contribution define leadership. Members are encouraged to propose, lead, and collaborate on projects of all scales.  
 
-## ✨ Join Us!
-
-Engineers of the world, unite! Whether you're just getting started or ready to build your own railgun, there's a place for you in our community.  
-👉 **[Join now via KCLSU](https://www.kclsu.org/groups/activities/join/rie/)**
-
----
-
-## 📬 Connect with Us
-
-[WhatsApp](https://forms.office.com/Pages/ResponsePage.aspx?id=FM9wg_MWFky4PHJAcWVDVkEs-pRUIlRKl3ZsypH8Ho9UMTBEVFRXR09QNUlCSEwwMUszTUpSNUlDMC4u) • [LinkedIn](https://www.linkedin.com/company/kcl-research-in-electronics/) • [YouTube](https://www.youtube.com/@KCL_RIE) • [Instagram](https://www.instagram.com/kcl.electricalresearch/)
+### Education & Training  
+A dual-track learning approach: introductory workshops for beginners and advanced project labs for experienced members. Our curriculum is designed to cultivate practical engineering skills alongside theoretical understanding.  
 
 ---
 
-© 2025 KCL Electronics Society · Powered by ⚡ binaryYuki
+## Technical Focus  
+
+- **PCB Design** – KiCad, Altium  
+- **Embedded Systems** – STM32, ESP32  
+- **Firmware & Software** – C, Python, Assembly  
+- **Rapid Prototyping** – 3D printing, laser cutting  
+- **High Voltage & RF Systems** – Experimental research platforms  
+
+---
+
+## Resource Hub  
+
+Explore our open-source tutorials, project documentation, and educational materials:  
+➡️ [Resource Hub](https://kclelectronics.co.uk/projects)  
+
+---
+
+## Join the Society  
+
+Whether you are new to electronics or looking to pursue advanced experimental research, the KCL Electronics Society provides a platform to learn, collaborate, and innovate.  
+👉 [Join via KCLSU](https://www.kclsu.org/groups/activities/join/rie/)  
+
+---
+
+## Connect With Us  
+
+- [WhatsApp](https://forms.office.com/Pages/ResponsePage.aspx?id=FM9wg_MWFky4PHJAcWVDVkEs-pRUIlRKl3ZsypH8Ho9UMTBEVFRXR09QNUlCSEwwMUszTUpSNUlDMC4u)  
+- [LinkedIn](https://www.linkedin.com/company/kcl-research-in-electronics/)  
+- [YouTube](https://www.youtube.com/@KCL_RIE)  
+- [Instagram](https://www.instagram.com/kcl.electricalresearch/)  
+
+---
+
+© 2025 KCL Electronics Society · Powered by binaryYuki  
