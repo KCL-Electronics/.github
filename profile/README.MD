@@ -1,6 +1,6 @@
 # KCL Electronics Society
 
-<img src="./banner.png">
+<img src="../banner.png">
 
 **Empowering students at King's College London in Electronics, Engineering, and Computer Science.**
 
