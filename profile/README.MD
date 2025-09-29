@@ -1,6 +1,6 @@
 # KCL Electronics Society
 
-<img src="https://github.com/KCL-RIE/rie-website-next/blob/1e3ede12305babf1de4a188547c586c69b09efb0/public/img/banner.png?raw=true">
+<img src="./banner.png">
 
 **Empowering students at King's College London in Electronics, Engineering, and Computer Science.**
 
